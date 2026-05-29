@@ -6,6 +6,21 @@ This document lists every file in the repository and its role.
 
 ## Parent Framework
 
+This simulation repository is connected to the broader theoretical framework:
+
+- **Will Superintelligent AI Cause Human Extinction?**  
+  https://github.com/InchaComisho/Will-Superintelligent-AI-Cause-Human-Extinction-
+
+That repository provides the conceptual foundation for reframing AI, AGI, and ASI risk through value systems, objective functions, Natural Law, the Six Principles, and Artificial Wisdom.
+
+This repository provides a simplified conceptual simulation that explores how different AI value systems may influence civilization sustainability indicators under simplified assumptions.
+
+Important note: this simulation does not provide empirical proof, real-world prediction, or policy recommendations. It uses hypothetical normalized indicators for conceptual comparison only.
+
+---
+
+## Recommended Reading Order
+
 ---
 
 ## Recommended Reading Order
