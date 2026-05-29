@@ -16,6 +16,7 @@ This document states the explicit limitations and disclaimers for the AI Value S
 - **It only illustrates possible tendencies under simplified assumptions.**
 - **Real-world civilization dynamics are far more complex.**
 - **Further interdisciplinary validation is required.**
+- **Even in the Artificial Wisdom scenario, residual risk remains.** This model does not suggest perfect safety, complete ecological recovery, or zero conflict under any scenario. Residual risks include: external shocks, climate lag, governance friction, geopolitical complexity, ecological recovery delay, implementation limits, and unpredictable complex-system behavior. Artificial Wisdom is a proposed value-system direction — not a complete solution, not a guaranteed outcome.
 
 ---
 
@@ -23,7 +24,9 @@ This document states the explicit limitations and disclaimers for the AI Value S
 
 This model is a simplified mathematical sketch of how different value systems *might* influence civilization-level indicators over time. It uses:
 
-- Linear dynamics with small noise terms
+- Dynamics with diminishing returns on improvement (recovery slows near ceilings)
+- Residual risk floors for stress indicators (no scenario reaches zero conflict or zero thermal stress)
+- Deterministic external shocks at fixed steps (conceptual stress factors affecting all scenarios equally)
 - Hypothetical coupling coefficients chosen to reflect broad directional intuitions
 - Normalized indicators (0.0–1.0) with no direct correspondence to real-world units
 - A fixed random seed to ensure reproducibility

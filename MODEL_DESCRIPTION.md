@@ -48,6 +48,18 @@ All values are **hypothetical normalized indicators**. They represent relative t
 
 ---
 
+## Diminishing Returns, Residual Risk, and External Shocks
+
+This version of the model incorporates three additional conceptual design features to prevent oversimplified "perfect outcome" framing:
+
+**Diminishing Returns:** Positive improvements (ecological recovery, harmony improvement, etc.) slow down as an indicator approaches its conceptual ceiling. This reflects the general principle that gains become harder as a system approaches its limits — a design choice, not an empirical law.
+
+**Residual Risk Floors:** Conflict pressure and thermal stress do not reach zero in any scenario. A minimum floor remains in all scenarios, representing conceptual residual risks: external shocks, climate lag, governance friction, geopolitical complexity, and unpredictable system behavior. This does not mean conflict is permanent — it means this simplified model does not assume complete elimination of all risk.
+
+**Deterministic External Shocks:** Small stress pulses are applied at steps 25, 40, and 65 to all scenarios equally. These represent conceptual system stressors (e.g., climate events, governance friction, resource constraints) that no value system fully controls. They create brief setbacks visible in the graphs. These are not real-world predictions — they are simplified stress factors common to all scenarios.
+
+---
+
 ## What the Indicators Mean
 
 | Indicator | Plain-Language Meaning |

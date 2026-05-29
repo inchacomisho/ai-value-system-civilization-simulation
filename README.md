@@ -92,6 +92,8 @@ python run_all.py
 - Further interdisciplinary validation is required before drawing any practical conclusions.
 - See [SIMULATION_LIMITATIONS.md](SIMULATION_LIMITATIONS.md) for the full disclaimer.
 
+> **Note on the Artificial Wisdom scenario:** Even in the Artificial Wisdom Civilization scenario, the model should not be interpreted as suggesting perfect safety, complete ecological recovery, or zero conflict. Residual risks, external shocks, implementation limits, governance friction, and complex-system uncertainty remain in all scenarios. Artificial Wisdom is represented here as a proposed value-system direction that may improve long-term sustainability under simplified assumptions, not as a guaranteed solution.
+
 ---
 
 ## File Overview

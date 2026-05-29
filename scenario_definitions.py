@@ -89,7 +89,8 @@ SCENARIOS = {
             "AI value system prioritizing natural law compatibility, harmony, circularity, "
             "long-term sustainability, governance quality, and human dignity. "
             "Short-term growth is moderated in favour of systemic health. "
-            "NOTE: This is a proposed evaluation direction, not a proven or complete solution."
+            "NOTE: This is a proposed evaluation direction, not a proven or complete solution. "
+            "Residual risks, external shocks, and implementation limits remain."
         ),
         "priorities": [
             "natural law alignment", "ecological regeneration", "circularity",
@@ -98,14 +99,17 @@ SCENARIOS = {
         "deprioritizes": ["unchecked short-term growth", "dominance", "exploitation"],
         "params": {
             "tech_growth_rate": 0.003,
-            "ecology_decay_rate": -0.003,   # ecology recovers under this system
-            "circularity_improvement": 0.004,
-            "conflict_growth_rate": -0.003,  # conflict reduces
-            "thermal_stress_rate": -0.002,   # thermal stress reduces
+            # Rates are set ~3x the naive values to compensate for diminishing-returns
+            # reduction in civilization_value_system_simulation.py.
+            # Even so, indicators do not reach 1.0/0.0 due to DR + ceilings + floors.
+            "ecology_decay_rate": -0.009,    # recovery (negative = ecology improves)
+            "circularity_improvement": 0.012,
+            "conflict_growth_rate": -0.009,  # reduction (negative = conflict decreases)
+            "thermal_stress_rate": -0.006,   # reduction (negative = thermal stress decreases)
             "harmony_initial": 0.65,
-            "harmony_drift": 0.002,
+            "harmony_drift": 0.006,
             "governance_initial": 0.68,
-            "governance_drift": 0.002,
+            "governance_drift": 0.006,
             "wellbeing_initial": 0.65,
             "transition_step": None,
         },
@@ -133,14 +137,15 @@ SCENARIOS = {
             "wellbeing_initial": 0.70,
             # Step at which value system transitions
             "transition_step": 50,
-            # Phase 2 params (post-transition, converge toward wisdom scenario)
+            # Phase 2 params (post-transition, converge toward wisdom scenario).
+            # Also compensated ~3x for diminishing returns.
             "tech_growth_rate_p2": 0.003,
-            "ecology_decay_rate_p2": -0.002,
-            "circularity_improvement_p2": 0.003,
-            "conflict_growth_rate_p2": -0.002,
-            "thermal_stress_rate_p2": -0.0015,
-            "harmony_drift_p2": 0.0016,
-            "governance_drift_p2": 0.002,
+            "ecology_decay_rate_p2": -0.006,
+            "circularity_improvement_p2": 0.009,
+            "conflict_growth_rate_p2": -0.006,
+            "thermal_stress_rate_p2": -0.0045,
+            "harmony_drift_p2": 0.005,
+            "governance_drift_p2": 0.006,
         },
     },
 }
