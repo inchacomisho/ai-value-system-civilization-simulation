@@ -21,10 +21,6 @@ Important note: this simulation does not provide empirical proof, real-world pre
 
 ## Recommended Reading Order
 
----
-
-## Recommended Reading Order
-
 For someone new to this project:
 
 1. [README.md](README.md) — Start here: overview, purpose, and how to run
