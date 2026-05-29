@@ -8,9 +8,18 @@ This model does not provide empirical proof, real-world prediction, or policy re
 
 ## Purpose
 
-This simulation repository is based on the broader theoretical framework:
-Will Superintelligent AI Cause Human Extinction?
-https://github.com/InchaComisho/Will-Superintelligent-AI-Cause-Human-Extinction-
+## Parent Framework / Theoretical Background
+
+This simulation is connected to the broader theoretical framework developed in:
+
+- **Will Superintelligent AI Cause Human Extinction?**  
+  https://github.com/InchaComisho/Will-Superintelligent-AI-Cause-Human-Extinction-
+
+That repository provides the conceptual foundation for reframing AI, AGI, and ASI risk through value systems, objective functions, Natural Law, the Six Principles, and Artificial Wisdom.
+
+This repository provides a simplified conceptual simulation that explores how different AI value systems may influence civilization sustainability indicators under simplified assumptions.
+
+The simulation does not provide empirical proof, real-world prediction, or policy recommendations. It is intended only as a conceptual comparison model using hypothetical normalized indicators.
 
 As AI, AGI, and ASI systems become increasingly capable, the question of *what they are asked to optimize* becomes critically important. This repository offers a simplified conceptual model to explore how different AI evaluation axes — what an AI is told to value — may shape the long-term trajectory of civilization.
 
