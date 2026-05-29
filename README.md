@@ -8,6 +8,10 @@ This model does not provide empirical proof, real-world prediction, or policy re
 
 ## Purpose
 
+This simulation repository is based on the broader theoretical framework:
+Will Superintelligent AI Cause Human Extinction?
+https://github.com/InchaComisho/Will-Superintelligent-AI-Cause-Human-Extinction-
+
 As AI, AGI, and ASI systems become increasingly capable, the question of *what they are asked to optimize* becomes critically important. This repository offers a simplified conceptual model to explore how different AI evaluation axes — what an AI is told to value — may shape the long-term trajectory of civilization.
 
 This simulation does **not** argue that AI is inherently safe or dangerous. It treats the danger question as one of **value alignment**: not merely "how intelligent is the AI?" but "what is it optimizing for, and on what timescale?"
