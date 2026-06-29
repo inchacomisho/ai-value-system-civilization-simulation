@@ -262,8 +262,6 @@ Supported conceptual development, structure, and simulation organization for thi
 
 ## License
 
-CC BY 4.0
-This work is licensed under the Creative Commons Attribution 4.0 International License.
 **CC BY 4.0**
 
 This work is licensed under the Creative Commons Attribution 4.0 International License.
@@ -273,17 +271,6 @@ You are free to share and adapt this material, including for commercial purposes
 - Attribution is required.
 - Derivative works must be distributed under the same license.
 
-License details: https://creativecommons.org/licenses/by/4.0/
-
----
-
-## Author
-
-Master / inchacomusho / InchaComisho
-
-An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
-Founder and advocate of the academic framework of Natural Complementary Science.  
-Publicly active in natural-law philosophy, planetary circulation restoration, and co-creation with AI.
 License details: https://creativecommons.org/licenses/by/4.0/
 
 ---
