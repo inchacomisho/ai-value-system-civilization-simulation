@@ -8,7 +8,7 @@
 
 **著者:** マスター / inchacomusho / InchaComisho  
 **概念開発支援:** クルス（Claude by Anthropic）  
-**ライセンス:** CC BY-SA 4.0
+**ライセンス:** CC BY 4.0
 
 ---
 
@@ -269,16 +269,16 @@ AIが人間中心・短期利益・二元論的支配を最適化すれば、文
 
 ## ライセンス
 
-**CC BY-SA 4.0**
+**CC BY 4.0**
 
-本作品は、Creative Commons Attribution-ShareAlike 4.0 International License のもとで公開されている。
+本作品は、Creative Commons Attribution 4.0 International License のもとで公開されている。
 
 以下の条件のもとで、共有・翻案・商用利用が可能である。
 
 - 著作権者の表示が必要。
 - 派生作品は同じライセンスで配布する必要がある。
 
-ライセンス詳細: https://creativecommons.org/licenses/by-sa/4.0/
+ライセンス詳細: https://creativecommons.org/licenses/by/4.0/
 
 ---
 
